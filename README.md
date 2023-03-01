@@ -1,9 +1,13 @@
 # playground
 
 database name = playground
+
 server name = localhost
+
 user name = root
+
 password = 123456
+
 
 起始頁面請點 test.php
 
